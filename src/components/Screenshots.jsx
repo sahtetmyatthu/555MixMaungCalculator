@@ -6,13 +6,13 @@ const Screenshots = () => {
     {
       title: 'Main Calculator',
       desc: 'တွက်ချက်မှု မျက်နှာပြင်',
-      image: 'public/images/screenshots/1.jpg',
+      image: '/images/screenshots/1.jpg',
       alt: 'Main calculator interface'
     },
     {
       title: 'History',
       desc: 'မှတ်တမ်း',
-      image: 'src/images/screenshots/2.jpg',
+      image: '/images/screenshots/2.jpg',
       alt: 'History view'
     },
   ]

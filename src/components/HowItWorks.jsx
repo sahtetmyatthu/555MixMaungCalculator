@@ -103,7 +103,7 @@ const HowItWorks = () => {
           <div className="glass-effect rounded-3xl p-8 max-w-4xl mx-auto">
             <div className="relative aspect-video rounded-2xl overflow-hidden bg-black">
               <video
-                src="src/images/screenshots/1.mp4"
+                src="/images/screenshots/1.mp4"
                 poster="/images/video-poster.jpg"
                 controls
                 preload="metadata"

@@ -39,7 +39,7 @@ const Navbar = () => {
           >
             <div className="w-20 h-22 rounded-xl bg-white/10 backdrop-blur flex items-center justify-center border border-white/18">
               <img
-                src="src/images/screenshots/maung.png"
+                src="/images/screenshots/maung.png"
                 alt="App logo"
                 className="w-16 h-14 rounded-full object-cover"
               />

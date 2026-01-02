@@ -9,21 +9,21 @@ const Testimonials = () => {
       role: 'User',
       text: 'အလွန်အသုံးဝင်ပါတယ်။ Cloud sync လုပ်လို့ device ဘယ်ခုကမဆို သုံးလို့ရတယ်။',
       rating: 5,
-      avatar: 'src/images/screenshots/4.jpg',
+      avatar: '/images/screenshots/4.jpg',
     },
     {
       name: 'Ko Ko',
       role: 'User',
       text: 'တွက်ချက်မှု တိကျပါတယ်။ အလွန် လွယ်ကူပါတယ်။',
       rating: 5,
-      avatar: 'src/images/screenshots/5.jpg',
+      avatar: '/images/screenshots/5.jpg',
     },
     {
       name: 'Zaw Zaw',
       role: 'User',
       text: 'အခမဲ့ app ပါ။ feature တွေ အရမ်း ကောင်းပါတယ်။',
       rating: 5,
-      avatar: 'src/images/screenshots/6.jpg',
+      avatar: '/images/screenshots/6.jpg',
     },
   ]
 
