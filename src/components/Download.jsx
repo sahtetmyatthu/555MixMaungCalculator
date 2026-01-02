@@ -7,26 +7,26 @@ import { QRCodeCanvas } from 'qrcode.react'
 const Download = () => {
   // 🔴 CHANGE THIS TO YOUR REAL LINK
   // Recommended: smart redirect URL (Android / iOS / Web)
-  const DOWNLOAD_URL = 'https://play.google.com/store/apps/details?id=com.mobile.legends'
+  const DOWNLOAD_URL = 'https://555-mix-maung-calculator.vercel.app/'
 
   const platforms = [
     {
       name: 'Android',
       icon: FaAndroid,
       color: 'from-green-400 to-green-600',
-      link: 'https://play.google.com/store/apps/details?id=com.yourcompany.yourapp',
+      link: 'https://555-mix-maung-calculator.vercel.app/',
     },
     {
       name: 'iOS',
       icon: FaApple,
       color: 'from-gray-400 to-gray-600',
-      link: 'https://apps.apple.com/app/idXXXXXXXXX',
+      link: 'https://555-mix-maung-calculator.vercel.app/',
     },
     {
       name: 'Web',
       icon: FaChrome,
       color: 'from-blue-400 to-blue-600',
-      link: 'https://yourdomain.com',
+      link: 'https://555-mix-maung-calculator.vercel.app/',
     },
     {
       name: 'Windows',
