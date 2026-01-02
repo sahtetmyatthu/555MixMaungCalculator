@@ -6,7 +6,7 @@ const Screenshots = () => {
     {
       title: 'Main Calculator',
       desc: 'တွက်ချက်မှု မျက်နှာပြင်',
-      image: 'src/images/screenshots/1.jpg',
+      image: 'public/images/screenshots/1.jpg',
       alt: 'Main calculator interface'
     },
     {
