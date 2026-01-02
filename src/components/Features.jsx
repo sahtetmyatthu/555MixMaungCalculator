@@ -25,24 +25,24 @@ const Features = () => {
       description: 'အလျင်အမြန် တွက်ချက်ပေးနိုင်သော စနစ်',
       color: 'from-yellow-400 to-orange-500',
     },
-    {
-      icon: FiCloud,
-      title: 'Cloud Sync',
-      description: 'Device အားလုံးတွင် အလိုအလျောက် Sync လုပ်ပေးသည်',
-      color: 'from-blue-400 to-cyan-500',
-    },
-    {
-      icon: FiLock,
-      title: 'လုံခြုံမှုရှိ',
-      description: 'Google Sign-in ဖြင့် လုံခြုံစိတ်ချရသော စနစ်',
-      color: 'from-green-400 to-emerald-500',
-    },
-    {
-      icon: FiDatabase,
-      title: 'မှတ်တမ်းသိမ်းဆည်းမှု',
-      description: 'ယခင် တွက်ချက်မှု အားလုံးကို သိမ်းဆည်းပေးသည်',
-      color: 'from-purple-400 to-pink-500',
-    },
+    // {
+    //   icon: FiCloud,
+    //   title: 'Cloud Sync',
+    //   description: 'Device အားလုံးတွင် အလိုအလျောက် Sync လုပ်ပေးသည်',
+    //   color: 'from-blue-400 to-cyan-500',
+    // },
+    // {
+    //   icon: FiLock,
+    //   title: 'လုံခြုံမှုရှိ',
+    //   description: 'Google Sign-in ဖြင့် လုံခြုံစိတ်ချရသော စနစ်',
+    //   color: 'from-green-400 to-emerald-500',
+    // },
+    // {
+    //   icon: FiDatabase,
+    //   title: 'မှတ်တမ်းသိမ်းဆည်းမှု',
+    //   description: 'ယခင် တွက်ချက်မှု အားလုံးကို သိမ်းဆည်းပေးသည်',
+    //   color: 'from-purple-400 to-pink-500',
+    // },
     {
       icon: FiSmartphone,
       title: 'Responsive Design',
@@ -55,12 +55,12 @@ const Features = () => {
       description: '15%/20% အကောက်ခွန် တိကျစွာ တွက်ချက်ပေးသည်',
       color: 'from-red-400 to-rose-500',
     },
-    {
-      icon: FiWifi,
-      title: 'Offline Support',
-      description: 'Internet မရှိလည်း အလုပ်လုပ်နိုင်သည်',
-      color: 'from-teal-400 to-cyan-500',
-    },
+    // {
+    //   icon: FiWifi,
+    //   title: 'Offline Support',
+    //   description: 'Internet မရှိလည်း အလုပ်လုပ်နိုင်သည်',
+    //   color: 'from-teal-400 to-cyan-500',
+    // },
     {
       icon: FiShare2,
       title: 'Share Results',

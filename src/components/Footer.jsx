@@ -18,7 +18,8 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-gray-400 mb-4 max-w-sm">
-              တိကျပြီး လွယ်ကူသော 555Mix မောင်း Calculator။ Cloud Sync နှင့် လုံခြုံမှုရှိသော အခမဲ့ Calculator App
+              တိကျပြီး လွယ်ကူသော 555Mix မောင်း Calculator
+              {/* Cloud Sync နှင့် လုံခြုံမှုရှိသော အခမဲ့ Calculator App */}
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-accent-500 transition-colors">
@@ -66,8 +67,8 @@ const Footer = () => {
               © 2026 555Mix Maung Calculator. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
-              <a href="#" className="text-gray-400 hover:text-accent-400 transition-colors">Privacy Policy</a>
-              <a href="#" className="text-gray-400 hover:text-accent-400 transition-colors">Terms of Service</a>
+              <a href="https://www.termsfeed.com/live/25f0f38a-09dc-4dcd-a063-bb688ee53487" className="text-gray-400 hover:text-accent-400 transition-colors">Privacy Policy</a>
+              <a href="https://www.termsfeed.com/live/6a84802b-4e99-4392-a532-a127696b3bbd" className="text-gray-400 hover:text-accent-400 transition-colors">Terms of Service</a>
             </div>
           </div>
         </div>

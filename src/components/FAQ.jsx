@@ -10,10 +10,10 @@ const FAQ = () => {
       question: 'ဘယ်လို Download လုပ်မလဲ?',
       answer: 'Google Play Store (Android), App Store (iOS) သို့မဟုတ် Web Browser မှတဆင့် အသုံးပြုနိုင်ပါသည်။'
     },
-    {
-      question: 'Cloud Sync က ဘယ်လို အလုပ်လုပ်သလဲ?',
-      answer: 'Google Sign-in လုပ်ပြီးသည်နှင့် သင့် တွက်ချက်မှု မှတ်တမ်းများသည် Cloud တွင် အလိုအလျောက် သိမ်းဆည်းပြီး Device အားလုံးတွင် Sync ဖြစ်ပါသည်။'
-    },
+    // {
+    //   question: 'Cloud Sync က ဘယ်လို အလုပ်လုပ်သလဲ?',
+    //   answer: 'Google Sign-in လုပ်ပြီးသည်နှင့် သင့် တွက်ချက်မှု မှတ်တမ်းများသည် Cloud တွင် အလိုအလျောက် သိမ်းဆည်းပြီး Device အားလုံးတွင် Sync ဖြစ်ပါသည်။'
+    // },
     {
       question: 'အခမဲ့လား ငွေပေးရလား?',
       answer: '100% အခမဲ့ ဖြစ်ပါသည်။ Features အားလုံး အခမဲ့ အသုံးပြုနိုင်ပါသည်။'
@@ -22,10 +22,10 @@ const FAQ = () => {
       question: 'ဘယ် Device တွေမှာ အလုပ်လုပ်မလဲ?',
       answer: 'Android, iOS, Web Browser နှင့် Desktop အားလုံးတွင် အလုပ်လုပ်ပါသည်။'
     },
-    {
-      question: 'Data က လုံခြုံမှုရှိသလား?',
-      answer: 'Google Sign-in နှင့် Firebase Security ဖြင့် သင့် Data များသည် လုံခြုံစိတ်ချရပါသည်။'
-    },
+    // {
+    //   question: 'Data က လုံခြုံမှုရှိသလား?',
+    //   answer: 'Google Sign-in နှင့် Firebase Security ဖြင့် သင့် Data များသည် လုံခြုံစိတ်ချရပါသည်။'
+    // },
     {
       question: 'Internet မရှိလည်း သုံးလို့ရလား?',
       answer: 'ရပါတယ်။ Offline mode ပါဝင်ပြီး Internet ပြန်ရရှိသောအခါ အလိုအလျောက် Sync ဖြစ်ပါသည်။'

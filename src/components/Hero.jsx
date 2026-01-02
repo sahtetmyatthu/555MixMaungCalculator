@@ -51,7 +51,7 @@ const Hero = () => {
               <span className="text-white">တိကျပြီး</span>{' '}
               <span className="text-gradient">လွယ်ကူသော</span>
               <br />
-              <span className="text-white">မောင်း Calculator</span>
+              <span className="text-white">မောင်းCalculator</span>
             </motion.h1>
 
             {/* Subtitle */}
@@ -61,8 +61,8 @@ const Hero = () => {
               transition={{ delay: 0.4 }}
               className="text-lg md:text-xl text-gray-300 mb-8 max-w-xl"
             >
-              555Mix အတွက် အထူးပြုလုပ်ထားသော မောင်း Calculator။
-              Cloud Sync, Offline Support နှင့် လုံခြုံမှုရှိသော အခမဲ့ Calculator App
+              555Mix အတွက် အထူးပြုလုပ်ထားသော မောင်း Calculator
+              {/* Cloud Sync, Offline Support နှင့် လုံခြုံမှုရှိသော အခမဲ့ Calculator App */}
             </motion.p>
 
             {/* Feature Pills */}
@@ -172,7 +172,7 @@ const Hero = () => {
                     <div className="p-6 h-full">
                       <div className="text-center mb-6">
                         <div className="text-2xl font-bold text-accent-400">555Mix</div>
-                        <div className="text-sm text-gray-400">မောင်းတွက်စက်</div>
+                        <div className="text-sm text-gray-400">မောင်းCalculator</div>
                       </div>
 
                       <div className="space-y-4">

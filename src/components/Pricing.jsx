@@ -5,13 +5,13 @@ import { FiCheck } from 'react-icons/fi'
 const Pricing = () => {
   const features = [
     'အကန့်အသတ်မရှိ တွက်ချက်မှု',
-    'Cloud Sync',
+    // 'Cloud Sync',
     'မှတ်တမ်း သိမ်းဆည်းမှု',
     'Offline Support',
     'Share လုပ်နိုင်မှု',
     'အကောက်ခွန် တိကျစွာ တွက်ချက်',
     'အားလုံး Device များတွင် အလုပ်လုပ်',
-    'Google Sign-in',
+    // 'Google Sign-in',
   ]
 
   return (
@@ -42,7 +42,7 @@ const Pricing = () => {
             <div className="absolute top-0 right-0 bg-accent-500 text-gray-900 px-6 py-2 rounded-bl-2xl font-bold">
               အကောင်းဆုံး သင့်အတွက်
             </div>
-            
+
             <div className="text-center mb-8 mt-8">
               <h3 className="text-3xl font-bold text-white mb-4">Free Plan</h3>
               <div className="flex items-baseline justify-center gap-2 mb-2">
