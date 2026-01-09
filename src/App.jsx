@@ -7,8 +7,11 @@ import Screenshots from './components/Screenshots'
 import Testimonials from './components/Testimonials'
 import Pricing from './components/Pricing'
 import FAQ from './components/FAQ'
+import Contact from './components/Contact'
 import Download from './components/Download'
 import Footer from './components/Footer'
+import FloatingContact from './components/FloatingContact'
+import StickyContactBar from './components/StickyContactBar'
 
 function App() {
   return (
@@ -21,8 +24,16 @@ function App() {
       <Testimonials />
       <Pricing />
       <FAQ />
+      {/* <Contact /> */}
       <Download />
       <Footer />
+
+      {/* Choose ONE of these contact components */}
+      {/* Option 1: Floating bubble button (recommended) */}
+      {/* <FloatingContact /> */}
+
+      {/* Option 2: Sticky contact bar (uncomment to use instead) */}
+      <StickyContactBar />
     </div>
   )
 }
