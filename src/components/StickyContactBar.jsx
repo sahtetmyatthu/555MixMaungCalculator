@@ -45,7 +45,7 @@ const StickyContactBar = () => {
             link: 'https://t.me/BlackDiamond69_bot',
             showOnMobile: true,
             category: 'telegram',
-            label: 'Main Support',
+            label: 'FordBet Agent',
             description: '24/7 Available',
             activeNow: true
         },
@@ -57,7 +57,7 @@ const StickyContactBar = () => {
             link: 'https://t.me/YourSecondBot',
             showOnMobile: true,
             category: 'telegram',
-            label: 'VIP Support',
+            label: 'M9SKM Agent',
             description: 'Premium Members',
             activeNow: true,
             badge: 'VIP'
@@ -70,7 +70,7 @@ const StickyContactBar = () => {
             link: 'https://t.me/YourThirdBot',
             showOnMobile: true,
             category: 'telegram',
-            label: 'Customer Care',
+            label: 'Slot Agent',
             description: 'Fast & Friendly',
             activeNow: true
         },
@@ -82,7 +82,7 @@ const StickyContactBar = () => {
             link: 'https://t.me/YourFourthBot',
             showOnMobile: true,
             category: 'telegram',
-            label: 'Tech Support',
+            label: 'Bet365 Agent',
             description: 'Expert Help',
             activeNow: true
         },
@@ -304,11 +304,11 @@ const StickyContactBar = () => {
                         <div className="text-center">
                             <div className="text-white font-bold text-base flex items-center gap-2">
                                 <span className="bg-gradient-to-r from-accent-400 to-purple-400 bg-clip-text text-transparent">
-                                    💬 Contact Us
+                                    💬 ဆက်သွယ်လိုက်နော်
                                 </span>
                             </div>
                             <div className="text-gray-400 text-xs">
-                                {isExpanded ? '👇 Tap to close' : '☝️ Tap for instant help'}
+                                {isExpanded ? '👇 Tap to close' : '☝️ ဘောလုံးကစားမယ်ဆို နှိပ်ပါ'}
                             </div>
                         </div>
                     </button>
